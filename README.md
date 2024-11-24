@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Md Nurullah Bhuiyan</h1>
 <h3 align="center"></h3>
-<p>A passionate MERN Stack developer from Barishal, Bangladesh. I want to be a leading full-stack developer who builds innovative, scalable solutions while contributing to open-source projects that empower businesses and communities worldwide. Also I want to create impactful solutions and grow as a leader in the developer community. <b>I am working with Typescript, mongoDB, Mongoose, Redux, Next.js and React.js</b></p>
+<p>A passionate Full Stack developer(MERN) from Barishal, Bangladesh. I want to be a leading full-stack developer who builds innovative, scalable solutions while contributing to open-source projects that empower businesses and communities worldwide. Also I want to create impactful solutions and grow as a leader in the developer community. <b>I am working with Typescript, mongoDB, Mongoose, Redux, Next.js and React.js</b></p>
 
 
 

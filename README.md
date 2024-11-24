@@ -1,4 +1,4 @@
-![banner](https://github.com/nurullah91/nurullah91/blob/main/MERN%20stack%20Developer%20(2).png)
+![banner]([https://github.com/nurullah91/nurullah91/blob/main/MERN%20stack%20Developer%20(2).png](https://github.com/nurullah91/nurullah91/blob/main/Black%20and%20White%20Simple%20Digital%20Marketing%20LinkedIn%20Background%20Photo.png))
 
 <h1 align="center">Hi, I'm Md Nurullah Bhuiyan</h1>
 <h3 align="center"></h3>

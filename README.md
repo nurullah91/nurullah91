@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurullah91&label=Profile%20views&color=0e75b6&style=flat" alt="nurullah91" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://md-nurullah-bhuiyan.netlify.app](https://md-nurullah-bhuiyan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.nurullahbhuiyan.com](https://www.nurullahbhuiyan.com)
 
 - 📫 How to reach me **nurullahbhuiyan91@gmail.com**
 
